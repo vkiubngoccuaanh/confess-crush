@@ -6,8 +6,8 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^:>>>^^',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy gương mặt ấy ',
+    title: 'Cuối tháng em về anh có quà tặng em 🥰',
+    desc: 'Anh cũng có quà nè. Đó là em ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người. Cảm ơn cuộc đời vì anh đã gặp được em  <3',
